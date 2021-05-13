@@ -28,6 +28,14 @@ p {
     text-align: center;
 }
 
+p a {
+    size: 40px;
+    font-weight: 800;
+    float: right;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
 
 /* ====GRIDS==== */
 
